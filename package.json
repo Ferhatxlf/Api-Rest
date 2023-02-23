@@ -1,0 +1,24 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "api rest for an application e-learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferhatxlf/Api-Rest.git"
+  },
+  "author": "kh-ferhat and to-mahrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferhatxlf/Api-Rest/issues"
+  },
+  "homepage": "https://github.com/Ferhatxlf/Api-Rest#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
